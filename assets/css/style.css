@@ -45,7 +45,7 @@ body {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background: /Users/hankbuckley/bootcamp/challenges/horiseon/assets/images/digital-marketing-meeting.jpg center / cover;
+    background: file:///Users/hankbuckley/bootcamp/challenges/horiseon/assets/images/digital-marketing-meeting.jpg center / cover;
 }
 
 /* Main content */
