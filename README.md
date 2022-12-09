@@ -1,1 +1,3 @@
 # Code Refactor Starter Code
+
+#In challenge #1, I added semantic elements to my code that made it easier to see the elements such as the header, footer, image files, and more. I added comments to the CSS style sheet that made each segment easier to follow. I added a title to the webpage, made the CSS style sheet more concise by consolidating similar elements into one. I created alt attributes for images in case the image didn't load in certain browser settings, and I ensured that the elements of my code followed a logical structure. I also ensured that the headings in my HTML code were in sequential order so that the webpage was easier to view.
